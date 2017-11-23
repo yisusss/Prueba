@@ -1,0 +1,1 @@
+var a = (x, y) => {  return a * y; }
